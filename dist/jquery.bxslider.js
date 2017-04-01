@@ -1606,4 +1606,4 @@
     return this;
   };
 
-})(jQuery);
+})(window.jQuery);
